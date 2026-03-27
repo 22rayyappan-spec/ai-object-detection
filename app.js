@@ -6,8 +6,8 @@
 // ============================================================
 // 🔧 CONFIGURATION — Replace with your Supabase credentials
 // ============================================================
-const SUPABASE_URL = "https://YOUR_PROJECT.supabase.co/rest/v1/detections";
-const API_KEY = "YOUR_API_KEY";
+const SUPABASE_URL = "https://rvimwofuxfxngbhcgsxb.supabase.co";
+const API_KEY = "sb_publishable_8rwkGi1W-skfghdlltysBQ_-zG7Z9_M";
 
 // Auto-refresh interval in milliseconds
 const REFRESH_INTERVAL = 5000;
